@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">color_game</string>
+    <string name="game_rule">Совпадает ли название цвета слева с цветом текста справа?</string>
+    <string name="color_name">название цвета</string>
+    <string name="color_text">цвет текста</string>
+    <string name="yes_button">Да</string>
+    <string name="no_button">Нет</string>
+    <string name="time">Таймер</string>
+    <string name="result">Правильные ответы: </string>
+</resources>
